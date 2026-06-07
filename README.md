@@ -161,3 +161,7 @@ Score is calculated per phase based on completeness and quality of inputs. An Af
 **New phase scoring logic**: Modify `_calculate_phase_score()` in `views.py`
 
 **Add more COAs**: Update the `options` array in `DecidePhase` in `App.jsx`
+
+Author:
+Akshaaya Sri G 
+Intern ID:CITS3704
